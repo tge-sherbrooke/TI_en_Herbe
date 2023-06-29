@@ -1,6 +1,10 @@
 # TI en Herbe - TGÉ (Cégep de Sherbrooke)
 
+### Mise en contexte
 
+La programmation et l'électronique sont deux axes importants du génie électrique. C'est pour cette raison que via une activité ludique il vous sera démontré qu'il est possible de résoudre des problèmes de la vie courante en utilisant la programmation et l'électronique.
+
+L'idée de l'activité est de vous montrer qu'il existe une multitude de solutions à votre portée, il suffit d'être curieux et imaginatif!
 
 ### Utilisation
 
