@@ -3,17 +3,29 @@ Site regroupant les informations de base pour vous guider dans l'exploration de 
 
 ### Téléchargement
 
-Cliquez sur le bouton vert "Code" en haut à droite et ensuite cliquez sur l'option "Download ZIP". Cette action vous permet de téléchager la totalité de ce présent site.
+Cliquez sur le bouton vert "Code" en haut à droite et ensuite cliquez sur l'option "Download ZIP". Cette action vous permet de télécharger la totalité de ce présent site.
 Si vous désirez télécharger un fichier de façon individuelle, vous pouvez le faire en cliquant sur le fichier en question. Il sera possible de le télécharger un cliquant sur le bouton ![image](https://github.com/tge-sherbrooke/TI_en_Herbe/assets/94009395/72d08491-b528-4d5e-9f62-f394338b8968)
  montrant une flèche pointant vers le bas. Ce bouton est situé en haut à droite du fichier ouvert.
+
+### Freenove RFID Starter Kit V2.0
+
+Toute la documentation et les codes originaux de votre kit d'électronique Freenove (FNK0034) se trouvent à l'adresse suivante : 
+
+* https://github.com/Freenove/Freenove_RFID_Starter_Kit_V2.0/tree/master
+
+Sur le site de Freenove, il est possible de récupérer l'ensemble des fichiers de la même manière que la procédure de téléchargement expliquée ici haut. Pour l'utilisation de ces fichiers, vous devez :
+
+1. Télécharger le fichier ZIP.
+2. Décompresser le fichier ZIP sur votre disque dur de votre ordinateur.
+3. Le fichier PDF "Tutorial.pdf" est un excellent point de départ pour l'exploration de votre kit.
 
 ### À propos
 
 Le département des technologies du génie électrique (TGÉ) du Cégep de Sherbrooke regroupe trois programmes d'études.
 
-1. Technique du génie électrique : automatisation et contrôle (243.D0)
-2. Technique du génie électrique : réseaux et télécommunications (243.F0)
-3. Technique du génie électrique : électronique programmable (243.G0)
+* Technique du génie électrique : automatisation et contrôle (243.D0)
+* Technique du génie électrique : réseaux et télécommunications (243.F0)
+* Technique du génie électrique : électronique programmable (243.G0)
    
 Vous pouvez consulter le site suivant pour de plus amples renseignements :
 
