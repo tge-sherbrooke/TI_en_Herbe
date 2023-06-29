@@ -1,5 +1,18 @@
 # TI en Herbe - TGÉ (Cégep de Sherbrooke)
-Site regroupant les informations de base pour vous guider dans l'exploration de votre kit d'électronique Freenove
+
+
+
+### Utilisation
+
+Ce site regroupe les informations de base pour vous guider dans l'exploration de votre kit d'électronique Freenove.
+
+Le fichier "TI_en_herbe_E2023.pdf" est le fichier qui a accompagné le déroulement de l'activité.
+
+Le répertoire /Code regroupe les codes utilisés pour l'activité. Ces codes proviennent à la base du site de Freenove, mais pour certains (Box_3D & Snake_Game_3D) des modifications ont été apportées.
+
+* /ControlBoard/SerialDevice est le répertoire possédant les fichiers nécessaires pour configurer l'Arduino, via le logiciel Arduino IDE (https://www.arduino.cc/en/software), en mode "Serial Device" utilisé en complémentarité de l'outil "Processing".
+* /Box_3D est le répertoire possédant les fichiers de l'outil "Processing" afin de faire bouger une boîte 3D à l'aide de la manette et offrant un effet visuel à l'aide du détecteur IR.
+* /Snake_Game_3D est le répertoire possédant les fichiers de l'outil "Processing" afin de changer la couleur du serpent (3 distances par rapport au détecteur IR) pour qu'elle soit identique à la nourriture afin d'être mangé.
 
 ### Téléchargement
 
@@ -45,4 +58,5 @@ Vous pouvez trouver une copie de la licence dans le répertoire.
 
 > Ceci signifie que vous pouvez utiliser ces fichiers pour vos propres travaux dérivés, en partie ou en totalité. Cependant, l'usage commercial est interdit.
 
-Freenove® est une marque déposée de Freenove Creative Technology Co., Ltd. (http://www.freenove.com)
+Freenove® est une marque déposée de Freenove Creative Technology Co., Ltd. (http://www.freenove.com).
+Arduino® est une marque déposée de Arduino LLC (https://www.arduino.cc/).
