@@ -1,6 +1,11 @@
 # TI en Herbe - TGÉ (Cégep de Sherbrooke)
 Site regroupant les informations de base pour vous guider dans l'exploration de votre kit d'électronique Freenove
 
+### Téléchargement
+
+Cliquez sur le bouton vert "Code" en haut à droite et ensuite cliquez sur l'option "Download ZIP". Cette action vous permet de téléchager la totalité de ce présent site.
+Si vous désirez télécharger un fichier de façon individuelle, vous pouvez le faire en cliquant sur le fichier en question. Il sera possible de le télécharger un cliquant sur le bouton ![image](https://github.com/tge-sherbrooke/TI_en_Herbe/assets/94009395/72d08491-b528-4d5e-9f62-f394338b8968)
+ montrant une flèche pointant vers le bas. Ce bouton est situé en haut à droite du fichier ouvert.
 
 ### À propos
 
