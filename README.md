@@ -14,10 +14,10 @@ Vous pouvez consulter le site suivant pour de plus amples renseignements :
 
 https://www.cegepsherbrooke.qc.ca/fr/t-as-deja-tout-un-genie
 
-Surveillez sur le site du Cégep (https://www.cegepsherbrooke.qc.ca/fr/)
+Surveillez sur le site du Cégep (https://www.cegepsherbrooke.qc.ca/fr/) pour les informations concernant :
 
-* Les informations concernant la formule "Étudiant d'un jour" où il vous est possible de venir explorer nos programmes directement dans nos laboratoires.
-* Les informations concernant les "Portes ouvertes 2023" qui auront lieu le mercredi 25 octobre 2023.
+* La formule "Étudiant d'un jour" où il vous est possible de venir explorer nos programmes directement dans nos laboratoires.
+* Les "Portes ouvertes 2023" qui auront lieu le mercredi 25 octobre 2023.
 
 ### Copyright
 
