@@ -3,9 +3,13 @@
  * Class   Snake
  * Author  Ethan Pan @ Freenove (http://www.freenove.com)
  * Date    2016/8/6
+ * Revision Nicolas Huppe & Charles Richard (Cegep de Sherbrooke)
  *******************************************************************************
  * Brief
  *   This class is for snake game.
+ *
+ * Modifications (2022-10-19)
+ *  Ajustement de la classe display afin qu'elle puisse recevoir le vecteur de couleur
  *******************************************************************************
  * Copyright
  *   Copyright © Freenove (http://www.freenove.com)
@@ -48,10 +52,12 @@ class Snake {
     body[2] = new Point(body[0].x, body[0].y + 2);
   }
 
-  void display()
+  void display(color couleur)
   {
     stroke(0, 0, 0);
-    fill(227, 118, 12);
+    fill(couleur);
+       
+    
     for (int i = 0; i < length; i++)
     {
       Point mapPosition = map.getMapPoint(body[i]);
@@ -61,6 +67,11 @@ class Snake {
       popMatrix();
     }
   }
+
+
+
+
+
 
   void speedUp()
   {
@@ -114,4 +125,3 @@ class Snake {
     }
   }
 }
-
